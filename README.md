@@ -5,9 +5,9 @@ This repository contains Python code for the RRT* (Rapidly-exploring Random Tree
 # Prerequisites:
 **Before running the code, make sure you have the following installed:**
 
-Python 3.x
-Pygame library
-You can install Pygame using pip:
+Python 3.x,
+Pygame library.
+**You can install Pygame using pip:**
 pip install pygame
 
 # Getting Started:
@@ -26,8 +26,8 @@ A Pygame window will appear, displaying the start and goal positions as well as 
 
 Once the algorithm has completed, the optimal path will be displayed in pink.
 
-# **Code Structure:
-The code is divided into two parts:**
+# Code Structure:
+The code is divided into two parts:
 
 # **rrt_star.py:**
 This script contains the main implementation of the RRT* algorithm. It includes functions for node expansion, rewiring, and path visualization.
