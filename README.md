@@ -1,10 +1,9 @@
-RRT* Algorithm:
+**RRT-Star Algorithm:**
 
 This repository contains Python code for the RRT* (Rapidly-exploring Random Tree Star) algorithm. The RRT* algorithm is a motion planning algorithm used to find feasible paths for a robot or agent in a given environment while avoiding obstacles. This implementation uses the Pygame library for visualization and provides a basic example of how the algorithm works.
 
 **Prerequisites:**
-
-Before running the code, make sure you have the following installed:
+**Before running the code, make sure you have the following installed:**
 
 Python 3.x
 Pygame library
