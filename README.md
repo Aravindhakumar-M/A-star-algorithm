@@ -8,9 +8,9 @@ This repository contains Python code for the RRT* (Rapidly-exploring Random Tree
 Python 3.x,
 Pygame library.
 **You can install Pygame using pip:**
-'''bash
+```bash
 pip install pygame
-'''
+```
 
 # Getting Started:
 
@@ -21,7 +21,9 @@ To run the RRT* algorithm, follow these steps:
 
 # Execute the rrt_star.py script:
 
-python rrt_star.py
+```bash
+python3 rrt_star.py
+```
 You will be prompted to enter the size of obstacles and the number of obstacles in the environment.
 
 A Pygame window will appear, displaying the start and goal positions as well as randomly generated obstacles. The RRT* algorithm will attempt to find a path from the start to the goal while avoiding obstacles.
