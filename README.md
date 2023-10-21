@@ -43,15 +43,15 @@ This script contains helper functions for checking intersection between line seg
 You can customize the environment by adjusting the parameters in the rrt_star.py script. For example, you can change the size and number of obstacles, the start and goal positions, and the number of iterations (NUMNODES) the algorithm should run.
 
 ## Customize the environment here
-size = int(input("Enter the size of the obstacles : "))
-n = int(input("Enter the no of obstacles : "))
+`size = int(input("Enter the size of the obstacles : "))
+n = int(input("Enter the no of obstacles : "))`
 
 ## Define start and goal positions
-`start = Node(0.0, 0.0)`
-goal = Node(630.0, 470.0)
+`start = Node(0.0, 0.0)
+goal = Node(630.0, 470.0)`
 
 ## Number of iterations for the RRT* algorithm
-NUMNODES = 2000
+`NUMNODES = 2000`
 
 **License:**
 This code is provided under the MIT License. You are free to use and modify it for your own projects.
