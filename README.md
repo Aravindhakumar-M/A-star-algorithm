@@ -30,6 +30,7 @@ A Pygame window will appear, displaying the start and goal positions as well as 
 
 Once the algorithm has completed, the optimal path will be displayed in pink.
 
+
 ## Code Structure:
 The code is divided into two parts:
 
@@ -54,6 +55,8 @@ You can customize the environment by adjusting the parameters in the rrt_star.py
 
 ## Number of iterations for the RRT* algorithm
 `NUMNODES = 2000`
+
+
 
 **License:**
 This code is provided under the MIT License. You are free to use and modify it for your own projects.
