@@ -57,11 +57,10 @@ You can customize the environment by adjusting the parameters in the rrt_star.py
 `NUMNODES = 2000`
 
 
-
-**License:**
+## License
 This code is provided under the MIT License. You are free to use and modify it for your own projects.
 
-**Acknowledgments:**
+## Acknowledgments:
 This code is based on the RRT* algorithm and Pygame library. Special thanks to the developers of Pygame for providing a convenient way to visualize the algorithm's execution.
 
 Feel free to explore and modify the code to suit your needs. Happy coding!
