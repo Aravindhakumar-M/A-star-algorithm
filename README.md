@@ -47,7 +47,7 @@ size = int(input("Enter the size of the obstacles : "))
 n = int(input("Enter the no of obstacles : "))
 
 ## Define start and goal positions
-start = Node(0.0, 0.0)
+`start = Node(0.0, 0.0)`
 goal = Node(630.0, 470.0)
 
 ## Number of iterations for the RRT* algorithm
