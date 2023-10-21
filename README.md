@@ -8,7 +8,9 @@ This repository contains Python code for the RRT* (Rapidly-exploring Random Tree
 Python 3.x,
 Pygame library.
 **You can install Pygame using pip:**
+'''bash
 pip install pygame
+'''
 
 # Getting Started:
 
